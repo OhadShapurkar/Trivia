@@ -23,16 +23,6 @@ namespace TriviaClient
             username = username2;
         }
 
-        private void Back_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void Back_Click_1(object sender, EventArgs e)
         {
             Hide();
